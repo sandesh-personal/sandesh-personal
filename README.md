@@ -1,87 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sandesh%20Koirala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20PHP%20•%20Python%20•%20Django&descAlignY=55&descSize=18" width="100%"/>
+<!-- ============================================================ -->
+<!-- HERO: Monochrome ASCII Portrait (types in) beside            -->
+<!-- Extruded 3D ASCII Wordmark (wipes in, then rocks on axis)    -->
+<!-- (Or swap wordmark.svg with info-card.svg for Neofetch panel) -->
+<!-- ============================================================ -->
 
-</div>
+<h3><code>sandesh@github ~ $ whoami</code></h3>
 
----
+<table>
+<tr>
+<td valign="top"><img src="./sandesh-ascii.svg" width="370" alt="Sandesh Koirala — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="SANDESH — 3D ASCII wordmark" /></td>
+<!-- To use the Neofetch Info Card instead, replace the line above with: -->
+<!-- <td valign="top"><img src="./info-card.svg" width="490" alt="Sandesh — Neofetch Info Card" /></td> -->
+</tr>
+</table>
 
-### 👋 About Me
+<br>
+<br>
 
-I'm a **Full-Stack Developer** passionate about building real-world web applications. I work across the stack — from PHP backends and Django APIs to clean, responsive frontends.
+<!-- ============================================================ -->
+<!-- ANIMATED CONTRIBUTION HEATMAP: Real live data scraped daily  -->
+<!-- Diagonal staggered reveal with statistics footer             -->
+<!-- Auto-refreshed daily by .github/workflows/update-profile-art.yml -->
+<!-- ============================================================ -->
 
-- 🔭 Currently working on **Django web projects**
-- 🌱 Always learning new frameworks and best practices
-- 🎯 Focused on building useful, well-structured applications
-- 📍 Based in Nepal 🇳🇵
+<h3><code>sandesh@github ~ $ ./contributions.sh</code></h3>
 
----
+<img src="./contrib-heatmap.svg" width="860" alt="Sandesh's GitHub contribution graph — auto-refreshed daily" />
 
-### 🛠️ Tech Stack
+<br>
+<br>
 
-**Languages**
+<!-- ============================================================ -->
+<!-- PROFILE & CONNECTIVITY LINKS                                 -->
+<!-- ============================================================ -->
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h3><code>sandesh@github ~ $ ./links.sh</code></h3>
 
-**Frameworks & Tools**
+<p><b>Full-Stack Developer · Python & Django · React & Mobile Engineer</b></p>
+<p><i>Crafting scalable web architectures, cross-platform apps, and robust backend systems 📍 Nepal 🇳🇵</i></p>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-sandesh--personal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandesh-personal)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com)
+[![React](https://img.shields.io/badge/React_/_Expo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandesh-personal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh-personal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sandesh-personal&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🚦 E-Challan System](https://github.com/sandesh-personal/echallan) | Web-based traffic violation management system for officers to report and track offences | PHP, MySQL, Bootstrap |
-| [✅ Django Todo App](https://github.com/sandesh-personal/Django) | A clean task management app with full CRUD operations | Python, Django |
-| [🌐 Django Project](https://github.com/sandesh-personal/django-project) | Full-stack Django web application | Python, Django, HTML/CSS |
-| [📚 Python Django Learning](https://github.com/sandesh-personal/python-django) | Day-by-day Python & Django learning journey (24+ days) | Python, Django |
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-sandesh--personal-181717?style=for-the-badge&logo=github)](https://github.com/sandesh-personal)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pralin@hackytechy.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br>
 
 </div>

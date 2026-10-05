@@ -1,0 +1,39 @@
+name: Daily Green Contribution Streak
+
+# Keeps your GitHub contribution graph active and green every day!
+# Runs automatically on a daily schedule, plus on-demand with "Run workflow".
+
+"on":
+  schedule:
+    # Runs twice a day (05:15 UTC and 17:15 UTC) to ensure your streak is maintained
+    - cron: "15 5,17 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  commit-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Configure Git Committer
+        run: |
+          git config --global user.name "sandesh-personal"
+          git config --global user.email "sandesh-personal@users.noreply.github.com"
+
+      - name: Record Daily Activity
+        run: python scripts/daily_log.py
+
+      - name: Commit and Push Activity
+        run: |
+          git add data/activity.log
+          git diff --quiet && git diff --staged --quiet || git commit -m "activity: daily developer log [skip ci]"
+          git push origin main
