@@ -6,7 +6,7 @@
 <!-- (Or swap wordmark.svg with info-card.svg for Neofetch panel) -->
 <!-- ============================================================ -->
 
-<h3><code>sandesh@github ~ $ whoami</code></h3>
+<h3><code>sandesh@githubi</code></h3>
 
 <table>
 <tr>
